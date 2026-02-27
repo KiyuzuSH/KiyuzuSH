@@ -4,7 +4,7 @@
 
 我自幼听音乐，从初中开始看日本动画，现在我对人类的文艺创作也很有兴趣。
 
-目前我的仓库里主要是使用Unity制作的游戏项目。或许我还会补传曾做过的项目。
+我的仓库里目前主要是使用Unity制作的游戏项目。
 
 预期在中国或者日本求职。
 
@@ -15,8 +15,7 @@ I'm a university student from Shanghai, China. Currently I'm studying game devel
 I have great interest in Math, Science and Technology things before go to primary school, but I started learning programming only after I'm admitted by CUC. 
 I listen a lot music, started watching Anime at Grade 6, and now I'm attracted by all human's culture things: stories, arts, etc. 
 
-Now my repositories are mainly with contents of games based on Unity. Maybe I'll publish other my works. 
-I'm now still learning basic programming and game development on Unity and Unreal Engine 4. 
+My repositories are mainly with contents of games based on Unity for present time. 
 
 Looking for job oppotunities in China or Japan.
 
