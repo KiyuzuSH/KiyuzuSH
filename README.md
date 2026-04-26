@@ -1,23 +1,16 @@
-您好，我在中国生活。生长于上海，现在正在中国传媒大学（位于北京）学习游戏开发。
-
-在上小学前我便对数学与理工科技类内容感兴趣，然而直到上大学才开始真正学习编程。
-
-我自幼听音乐，从初中开始看日本动画，现在我对人类的文艺创作也很有兴趣。
+您好，我生长于上海，在中国生活。
 
 我的仓库里目前主要是使用Unity制作的游戏项目。
 
-预期在中国或者日本求职。
-
 <!--你可以在我的个人网站上查看更多关于我的信息。支持中文、英文与日文。-->
 
-I'm a university student from Shanghai, China. Currently I'm studying game development in Communication University of China(in Beijing).
+更新日期：2026.4.27
 
-I have great interest in Math, Science and Technology things before go to primary school, but I started learning programming only after I'm admitted by CUC. 
-I listen a lot music, started watching Anime at Grade 6, and now I'm attracted by all human's culture things: stories, arts, etc. 
+I'm born and grown in Shanghai, China. 
 
 My repositories are mainly with contents of games based on Unity for present time. 
 
-Looking for job oppotunities in China or Japan.
+Last Updated: Apr 27, 2026
 
 <!--You can check out my personal website for more information, it has support for Chinese, English and Japanese.-->
 
